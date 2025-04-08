@@ -9,7 +9,7 @@
  * AdAway is Open Source and Free Software (GPLv3+)
  * AdAway lets you select your own sources of hosts files
  * You can add exceptions to your Whitelist if an app is not working when specific hosts are blocked
- *You can define extra hostnames in your own Blacklist
+ * You can define extra hostnames in your own Blacklist
  * You can add your own (hostname, IP)-pairs in the Redirection List
  
  
